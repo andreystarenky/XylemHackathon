@@ -1,0 +1,8 @@
+Meter #	Service Delivery Point	Meter Type	Meter Size	Longitude	Latitude
+3000027663	2024102	Water Residential Outside	0.75	1421882.639	825886.1127
+
+Meter # - Unique Identifier for each device
+Service Delivery Point - Unique Identifier for each Parcel; meaning it stays with the location even if the device changes
+Meter Type - Type of meter within the utility; is it residential, is it commercial, is it in or out of the city limits.
+Meter Size - Diameter of the water meter
+Lat / Long - GIS location

@@ -1,0 +1,6 @@
+Basestation ID	 Basestation Name	 Longitude	 Longitude
+20632	TGB 1	-97.43793314	-97.43793314
+
+Basestation ID - Unique ID for each device
+Basestation Name - Text field for naming the Basestation
+Lat/Long - GIS Location of the device
